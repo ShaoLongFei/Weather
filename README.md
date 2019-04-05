@@ -1,5 +1,5 @@
 # Weather
-#Google GDG CodeLab 演示项目
+# GDG CodeLab 演示项目
 ## 时间：2019.4.4 ##
 使用Kotlin语言
 网络请求库Okhttp3,JSON解析库GSON，侧滑栏控件
